@@ -1,0 +1,73 @@
+body{
+    margin:0px;
+    font-family: 'Poppins', sans-serif;
+}
+.healf-width{
+    width:40%;
+    float:left;
+  
+   padding-left:8%;
+}
+.healf-width img{
+    width:50%;
+}
+.name-highlight{
+    color:orange;
+}
+
+.top-banner{
+background-repeat: no-repeat;
+    background-image:url("file:///C:/Users/tanvir/Desktop/project-/image/web-background%20cover.png")
+
+}
+section{
+    height:400px;
+}
+.link-button{
+  
+
+    text-decoration: none;
+     padding:5px 10px ;
+     border-radius:8px;
+     background-image: linear-gradient(45deg,lightsalmon, tomato);
+     color:white;
+     text: width 700%;
+}
+span{
+    color:orangered;
+}
+p{
+   color:drimgray;
+}
+.dream{
+    background-repeat:no-repeat;
+    background-position:right;
+    background-image:url("file:///C:/Users/tanvir/Desktop/project-/image/dream-bg.png")
+}
+.position{
+    padding-right:20px;
+}   
+
+.Experiance{
+    background-repeat:no-repeat;
+    background-position: left;
+    background-image:url("file:///C:/Users/tanvir/Desktop/project-/image/exp-bg.png")
+    
+}
+.singel-Expariance{
+    border-radius:10px;
+    height:80%;
+    width:30%;
+    margin-left:5%;
+    box-shadow:10px 10px 40px gray;
+    
+}
+#left-color{
+border-left:5px solid orange;
+
+}
+#right-color{
+
+border-left:5px solid orange ;
+
+}

@@ -1,0 +1,43 @@
+.header-web{
+    float:left;
+    padding-left:8%;
+    width:40%;
+  
+
+
+}
+.header-web img{
+    width:80%;
+}
+.full{
+    background-repeat: no-repeat;
+    background-image:url("file:///C:/Users/tanvir/Desktop/portfolio/image/Untitled%20design%20(30).png")
+   
+
+}
+section{
+    height:500px;
+    
+}
+body{
+    margin:0%;
+}
+.web-futter{
+    float:left;
+    padding-left:8%;
+    width:40%;
+}
+.futter{
+    background-repeat:no-repeat;
+    background-image:url("file:///C:/Users/tanvir/Desktop/project-/image/web-background%20cover.png")
+    
+}
+h1{
+    font-size:50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlit{
+    color:orange;
+}
