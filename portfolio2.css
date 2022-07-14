@@ -10,8 +10,8 @@
     width:80%;
 }
 .full{
-    background-repeat: no-repeat;
-    background-image:url("file:///C:/Users/tanvir/Desktop/portfolio/image/Untitled%20design%20(30).png")
+    background-repeat:no-repeat;
+background-image:url("file:///C:/Users/tanvir/Desktop/project-/image/web-background%20cover.png")
    
 
 }
@@ -19,9 +19,7 @@ section{
     height:500px;
     
 }
-body{
-    margin:0%;
-}
+
 .web-futter{
     float:left;
     padding-left:8%;
@@ -29,7 +27,7 @@ body{
 }
 .futter{
     background-repeat:no-repeat;
-    background-image:url("file:///C:/Users/tanvir/Desktop/project-/image/web-background%20cover.png")
+
     
 }
 h1{
@@ -37,7 +35,19 @@ h1{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    
+        margin:0%;
+    
 }
 .name-highlit{
     color:orange;
+}
+.link-button{
+    border-radius:7px;
+    text-decoration:none;
+ 
+   padding:10px 20px ;
+   color:white;
+   background-image:linear-gradient(30deg,lightsalmon,tomato)
+   
 }
